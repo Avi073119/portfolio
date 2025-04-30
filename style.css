@@ -11,6 +11,13 @@ body {
     padding: 2rem;
     text-align: center;
   }
+  img{
+    width: 100px;
+    height: 100px;
+    border-radius:50%;
+    box-shadow: #333;
+  }
+  
   section {
     max-width: 900px;
     margin: 2rem auto;
